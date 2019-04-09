@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1553603588 source:c:\users\alumno\desktop\programacion-y-laboratorio\clase 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+
+1553604761 c:\users\alumno\desktop\programacion-y-laboratorio\clase 4\biblioteca.h
+
+1553604777 source:c:\users\alumno\desktop\programacion-y-laboratorio\clase 4\biblioteca.c
+	"Biblioteca.h"
+
+1553606315 source:c:\users\alumno\desktop\programacion-y-laboratorio\clase 4\recursividad.c
+	"recursividad.h"
+
+1553606348 c:\users\alumno\desktop\programacion-y-laboratorio\clase 4\recursividad.h
+
